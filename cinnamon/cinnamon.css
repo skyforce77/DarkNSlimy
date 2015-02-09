@@ -504,8 +504,7 @@ StScrollBar StButton#hhandle:focus {
 }
 
 .workspace-osd {
-    border: 1px rgba(255,255,255,0.2);
-    background-color: rgba(0, 0, 0, .5);
+    border-image: url("background-assets/popup.svg") 7;
     color: #DEDEDE;
     padding: 12px 17px;
     font-weight: bold;
@@ -680,13 +679,12 @@ StScrollBar StButton#hhandle:focus {
 }
 
 .calendar-day {
-    border: 1px rgba(255,255,255,0.2);
+    border-image: url("background-assets/popup.svg") 7;
     color: rgba(255,255,255,0.7);
     border-top-width: 0;
     border-left-width: 0;
     padding-left: 1px;
     padding-top: 1px;
-    background-color: rgba(255,255,255,0.1);
 }
 
 .calendar-day-top {
@@ -808,8 +806,7 @@ StScrollBar StButton#hhandle:focus {
 }
 
 .switcher-list {
-    border: 1px rgba(255,255,255,0.2);
-    background-color: rgba(0, 0, 0, .5);
+    border-image: url("background-assets/popup.svg") 7;
     color: #DEDEDE;
     padding: 20px;
     font-size: 9pt;
@@ -1159,8 +1156,7 @@ StScrollBar StButton#hhandle:focus {
  * ===================================================================*/
 
 .modal-dialog {
-    border: 1px rgba(255,255,255,0.2);
-    background-color: rgba(0, 0, 0, .5);
+    border-image: url("background-assets/popup.svg") 7;
     color: #DEDEDE;
     padding: 0;
     border-radius: 0;
@@ -1207,8 +1203,7 @@ StScrollBar StButton#hhandle:focus {
 }
 
 .run-dialog > * {
-    border: 1px rgba(255,255,255,0.2);
-    background-color: rgba(0, 0, 0, .5);
+    border-image: url("background-assets/popup.svg") 7;
     color: #DEDEDE;
     padding: 10px;
 }
@@ -1981,8 +1976,7 @@ StScrollBar StButton#hhandle:focus {
  * ===================================================================*/
 
 .snap-osd {
-    border: 1px rgba(255,255,255,0.2);
-    background-color: rgba(0, 0, 0, .5);
+    border-image: url("background-assets/popup.svg") 7;
     color: #DEDEDE;
     font-size: 14pt;
     font-weight: bold;
@@ -2094,8 +2088,7 @@ StScrollBar StButton#hhandle:focus {
  * ===================================================================*/
 
 .reddit-reader {
-    border: 1px rgba(255,255,255,0.2);
-    background-color: rgba(0, 0, 0, .5);
+    border-image: url("background-assets/popup.svg") 7;
     color: #DEDEDE;
     padding: 12px;
 }
@@ -2170,8 +2163,7 @@ StScrollBar StButton#hhandle:focus {
 }
 
 .sticky-main-box-staples {
-    border: 1px rgba(255,255,255,0.2);
-    background-color: rgba(0, 0, 0, .5);
+    border-image: url("background-assets/popup.svg") 7;
     color: #DEDEDE;
     border-radius: 0;
     text-shadow: none;
@@ -2181,8 +2173,7 @@ StScrollBar StButton#hhandle:focus {
 }
 
 .sticky-main-box-none {
-    border: 1px rgba(255,255,255,0.2);
-    background-color: rgba(0, 0, 0, .5);
+    border-image: url("background-assets/popup.svg") 7;
     color: #DEDEDE;
     border-radius: 0;
     text-shadow: none;
@@ -2842,8 +2833,7 @@ StScrollBar StButton#hhandle:focus {
  * ===================================================================*/
  
 .grid-panel {
-    border: 1px rgba(255,255,255,0.2);
-    background-color: rgba(0, 0, 0, .5);
+    border-image: url("background-assets/popup.svg") 7;
     color: #DEDEDE;
     width:240px;
     padding: 6px;
