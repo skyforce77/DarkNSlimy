@@ -15,8 +15,8 @@
    height="24"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="submenu-bg.svg"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="buttonbox-bg.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new">
@@ -37,8 +37,8 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="846"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
      inkscape:window-y="25"
      width="400px"
@@ -89,7 +89,7 @@
         <dc:source />
         <cc:license
            rdf:resource="" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
@@ -130,7 +130,7 @@
      id="layer1"
      transform="translate(0,-276)">
     <path
-       style="fill:#dcdcdc;fill-opacity:1;stroke:none"
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.50000000000000000"
        d="m 1,276 0,19 c 0,2.216 1.784,4 4,4 l 14,0 c 2.216,0 4,-1.784 4,-4 l 0,-19 z"
        id="rect3090"
        inkscape:connector-curvature="0"

@@ -15,8 +15,8 @@
    height="24"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="popup.svg"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="keyboard-bg.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new">
@@ -37,8 +37,8 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="846"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
      inkscape:window-y="25"
      width="400px"
@@ -89,7 +89,7 @@
         <dc:source />
         <cc:license
            rdf:resource="" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
@@ -135,9 +135,9 @@
        height="1"
        width="24"
        id="rect3005"
-       style="opacity:0.4;fill:#5a5a5a;fill-opacity:1;stroke:none" />
+       style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#eaeaea;fill-opacity:1;stroke:none"
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.50000000000000000"
        id="rect3003"
        width="24"
        height="23"
